@@ -8,7 +8,7 @@ iTerm2のみ入れかえない
 ## 配置方法
 ※xxxxはユーザー名
 
-`cd /Users/xxxx/.config/karabiner/assets/complex_modifications/`
+`cd /Users/xxxx/.config/karabiner/assets/complex_modifications/`  
 `git clone https://github.com/a-tak/karabiner-elements-key-map.git .`
 
 
